@@ -1,0 +1,21 @@
+05/25/2025-15:29:14.014063  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:49296 -> 194.242.57.111:80
+05/25/2025-15:29:19.514808  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:44818 -> 194.242.57.111:80
+05/25/2025-15:29:43.173951  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:57814 -> 194.242.57.111:443
+05/25/2025-15:29:52.677104  [**] [1:1000002:1] Google DNS Query Detected [**] [Classification: (null)] [Priority: 3] {UDP} 172.29.182.69:59356 -> 172.29.176.1:53
+05/25/2025-15:29:52.704860  [**] [1:1000002:1] Google DNS Query Detected [**] [Classification: (null)] [Priority: 3] {UDP} 172.29.182.69:39474 -> 172.29.176.1:53
+05/25/2025-15:29:52.732314  [**] [1:1000002:1] Google DNS Query Detected [**] [Classification: (null)] [Priority: 3] {UDP} 172.29.182.69:49103 -> 172.29.176.1:53
+05/25/2025-15:30:00.322694  [**] [1:1000003:1] Facebook DNS Query Detected [**] [Classification: (null)] [Priority: 3] {UDP} 172.29.182.69:34308 -> 172.29.176.1:53
+05/25/2025-15:30:00.350166  [**] [1:1000003:1] Facebook DNS Query Detected [**] [Classification: (null)] [Priority: 3] {UDP} 172.29.182.69:33447 -> 172.29.176.1:53
+05/25/2025-15:30:00.374215  [**] [1:1000003:1] Facebook DNS Query Detected [**] [Classification: (null)] [Priority: 3] {UDP} 172.29.182.69:45132 -> 172.29.176.1:53
+05/25/2025-15:39:49.309557  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:50344 -> 194.242.57.111:443
+05/25/2025-15:40:10.793596  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:53850 -> 194.242.57.111:443
+05/25/2025-15:40:22.618816  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:54900 -> 194.242.57.111:443
+05/25/2025-15:40:40.592926  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:32932 -> 194.242.57.111:443
+05/25/2025-15:40:48.275723  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:47574 -> 194.242.57.111:443
+05/25/2025-15:41:31.771879  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:55478 -> 194.242.57.111:443
+05/25/2025-15:50:58.873424  [**] [1:1000001:1] Visiting leomalay.com? Well I see you as clear as a cutie patootie? [**] [Classification: (null)] [Priority: 3] {TCP} 172.29.182.69:59946 -> 194.242.57.111:443
+05/25/2025-16:05:37.598899  [**] [1:3:1] Found Incoming PDF File [**] [Classification: (null)] [Priority: 3] {TCP} 68.70.205.4:80 -> 172.29.182.69:42092
+05/25/2025-16:06:00.047372  [**] [1:3:1] Found Incoming PDF File [**] [Classification: (null)] [Priority: 3] {TCP} 68.70.205.4:80 -> 172.29.182.69:57480
+05/25/2025-16:06:00.922049  [**] [1:3:1] Found Incoming PDF File [**] [Classification: (null)] [Priority: 3] {TCP} 68.70.205.4:80 -> 172.29.182.69:57494
+05/25/2025-16:06:01.566553  [**] [1:3:1] Found Incoming PDF File [**] [Classification: (null)] [Priority: 3] {TCP} 68.70.205.4:80 -> 172.29.182.69:57502
+05/25/2025-16:06:02.196361  [**] [1:3:1] Found Incoming PDF File [**] [Classification: (null)] [Priority: 3] {TCP} 68.70.205.4:80 -> 172.29.182.69:57508
