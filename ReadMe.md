@@ -16,8 +16,9 @@ Overall, this demo will illustrate Suricata’s ability to perform deep packet i
 
 ## Steps to perform
 
-> > > WARNING: Never run this on production server or your PC. This demo invloves use of SUDO which is dangerous. Perform at your own risk.
-> > > Here are the steps to be performed with some commads, but I recommed you to visit [https://notes.leomalay.com/#/tools/suricata](https://notes.leomalay.com/#/tools/suricata)
+> WARNING: Never run this on production server or your PC. This demo invloves use of SUDO which is dangerous. Perform at your own risk.
+
+Here are the steps to be performed with some commads, but I recommed you to visit [https://notes.leomalay.com/#/tools/suricata](https://notes.leomalay.com/#/tools/suricata)
 
 1. Open Kali-Linux VM or any other Linux based system.
 2. Install suricata on this VM.
